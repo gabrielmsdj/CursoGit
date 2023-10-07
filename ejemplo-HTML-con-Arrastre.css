@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cajaImagen{
+	float: left;
+	width: 300px;
+	margin: 30px;
+	border: 1px solid blue;
+}
+
+#zonaDestino{
+	float: left;
+	width: 400px;
+	height: 400px;
+	margin: 100px;
+	border: 1px solid green;
+}
+
+body{
+	background-color: orangered;
+}
