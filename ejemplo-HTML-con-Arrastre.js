@@ -49,3 +49,7 @@ function saliendo(e){
 }
 
 window.addEventListener("load", comenzar, false)
+
+function saludo(){
+	alert("Viva Peron!!!");
+}
